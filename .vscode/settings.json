@@ -1,0 +1,5 @@
+{
+    "html.format.indentInnerHtml": true,
+    "html.suggest.angular1": true,
+    "html.suggest.ionic": true
+}
